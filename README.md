@@ -5,7 +5,8 @@ This modification is for GTA San Andreas. Makes the sky less intense in brightne
 
 Put timecycle24.asi in the principal folder of your game (or scripts folder if you have one). 
 
-About Silent's ASI Loader: put all the files (including the folders) from the archive silents_asi_loader_13.zip into the principal folder de tu juego.
+About Silent's ASI Loader: put all the files (including the folders) from the archive silents_asi_loader_13.zip into the principal folder de tu juego. Then put timecyc_24h.dat from *Less_Intense_Timecyc_SA_1.0.zip* archive into Data folder of your game (and replace if is needed)
+
 
 Need help? **Contact us** in our Rockstar Montanna Studio Discord's server at:
 https://discord.gg/T8fdnKy
@@ -23,12 +24,43 @@ Samples:
 ![Showcase 4](https://cdn.discordapp.com/attachments/498670800123985949/531287885090127893/lit_showcase_sample4.png)
 ![Showcase 5](https://cdn.discordapp.com/attachments/498670800123985949/531288177634181140/lit_showcase_sample5.png)
 
+List of all modified weather:
+* **EXTRASUNNY_LA**
+
+* **SUNNY_LA**
+
+* **EXTRASUNNY_SMOG_LA**
+
+* **SUNNY_SMOG_LA**
+
+* **CLOUDY_LA**
+
+* **SUNNY_SF**
+
+* **EXTRASUNNY_SF**
+
+* **SUNNY_VEGAS**
+
+* **EXTRASUNNY_VEGAS**
+
+* **CLOUDY_VEGAS**
+
+* **EXTRASUNNY_COUNTRYSIDE**
+
+* **SUNNY_COUNTRYSIDE**
+
+* **CLOUDY_COUNTRYSIDE**
+
+* **EXTRASUNNY_DESERT**
+
+* **SUNNY_DESERT**
+
 # Español: [SA - MOD] Less Intense Timecyc
 Esta modificación es para GTA San Andreas. Hace que el cielo sea menos intenso en brillosidad para el cuidado de los ojos. La modificación ha sido probada en la versión 1.0 del juego. Es necesario tener 24h TimeCycle (y Silent's ASI Loader) para que funcione Less Intense TimeCycle en tu juego. [Descarga aquí 24h TimeCycle](http://aap.papnet.eu/gta/24h/timecycle24.asi). 
 
 Coloca timecycle24.asi en la carpeta principal de tu juego (o la carpeta scripts si tienes una). 
 
-Sobre Silent's ASI Loader: coloca todos los archivos (incluyendo las carpetas) del archivo silents_asi_loader_13.zip dentro de la carpeta principal de tu juego.
+Sobre Silent's ASI Loader: coloca todos los archivos (incluyendo las carpetas) del archivo silents_asi_loader_13.zip dentro de la carpeta principal de tu juego. Entonces coloca timecyc_24h.dat del archivo *Less_Intense_Timecyc_SA_1.0.zip* dentro de la carpeta Data de tu juego.
 
 ¿Necesitas ayuda? **Contáctanos** en nuestro servidor Discord de Rockstar Montanna Studio en:
 https://discord.gg/T8fdnKy
@@ -45,3 +77,34 @@ Ejemplos:
 ![Demostración 3](https://cdn.discordapp.com/attachments/498670800123985949/531292961678557245/lit_showcase_sample3_spanish.png)
 ![Demostración 4](https://cdn.discordapp.com/attachments/498670800123985949/531293239076978699/lit_showcase_sample4_spanish.png)
 ![Demostración 5](https://cdn.discordapp.com/attachments/498670800123985949/531293528710447107/lit_showcase_sample5_spanish.png)
+
+Lista de climas modificados:
+* **EXTRASUNNY_LA**
+
+* **SUNNY_LA**
+
+* **EXTRASUNNY_SMOG_LA**
+
+* **SUNNY_SMOG_LA**
+
+* **CLOUDY_LA**
+
+* **SUNNY_SF**
+
+* **EXTRASUNNY_SF**
+
+* **SUNNY_VEGAS**
+
+* **EXTRASUNNY_VEGAS**
+
+* **CLOUDY_VEGAS**
+
+* **EXTRASUNNY_COUNTRYSIDE**
+
+* **SUNNY_COUNTRYSIDE**
+
+* **CLOUDY_COUNTRYSIDE**
+
+* **EXTRASUNNY_DESERT**
+
+* **SUNNY_DESERT**
