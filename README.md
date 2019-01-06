@@ -1,7 +1,7 @@
 ![Logo](https://cdn.discordapp.com/attachments/498670800123985949/531284068495654922/Less_Intense_Timecyc_Mod_SA_Banner.png)
 
 # English: [SA - MOD] Less Intense Timecyc
-This modification is for GTA San Andreas. Makes the sky less intense in brightness for eyes care. The modification has been tested in the version 1.0 of the game. 24h TimeCycle (and Silent's ASI Loader) is needed to have Less Intense Timecyc working in your game. [Download here 24h TimeCycle](http://aap.papnet.eu/gta/24h/timecycle24.asi). 
+This modification is for GTA San Andreas. Makes the sky less intense in brightness for eyes care. The modification has been tested in the version 1.0 of the game. 24h TimeCycle (and [Silent's ASI Loader - download here](https://www.gtagarage.com/mods/download.php?f=37262)) is needed to have Less Intense Timecyc working in your game. [Download here 24h TimeCycle](http://aap.papnet.eu/gta/24h/timecycle24.asi). 
 
 Put timecycle24.asi in the principal folder of your game (or scripts folder if you have one). 
 
@@ -56,7 +56,7 @@ List of all modified weather:
 * **SUNNY_DESERT**
 
 # Español: [SA - MOD] Less Intense Timecyc
-Esta modificación es para GTA San Andreas. Hace que el cielo sea menos intenso en brillosidad para el cuidado de los ojos. La modificación ha sido probada en la versión 1.0 del juego. Es necesario tener 24h TimeCycle (y Silent's ASI Loader) para que funcione Less Intense TimeCycle en tu juego. [Descarga aquí 24h TimeCycle](http://aap.papnet.eu/gta/24h/timecycle24.asi). 
+Esta modificación es para GTA San Andreas. Hace que el cielo sea menos intenso en brillosidad para el cuidado de los ojos. La modificación ha sido probada en la versión 1.0 del juego. Es necesario tener 24h TimeCycle (y [Silent's ASI Loader - descarga aquí](https://www.gtagarage.com/mods/download.php?f=37262)) para que funcione Less Intense TimeCycle en tu juego. [Descarga aquí 24h TimeCycle](http://aap.papnet.eu/gta/24h/timecycle24.asi). 
 
 Coloca timecycle24.asi en la carpeta principal de tu juego (o la carpeta scripts si tienes una). 
 
